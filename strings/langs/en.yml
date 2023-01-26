@@ -256,12 +256,12 @@ S_B_7 : "👤 ᴅᴇᴠᴇʟᴏᴘᴇʀ 👤"
 S_B_8 : "🔎 ʜᴇʟᴘ 🔎."
 
 #Help 
-H_B_1 : "Admin Commands"
-H_B_2 : "Play Commands"
-H_B_3 : "Bot Commands"
-H_B_4 : "Extra Commands"
-H_B_5 : "Close Menu"
-H_B_6 : "SudoUser Commands"
+H_B_1 : "♣ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ ♣"
+H_B_2 : "♣ ᴘʟᴀʏ ᴄᴏᴍᴍᴀɴᴅꜱ ♣"
+H_B_3 : "♣ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ♣"
+H_B_4 : "♣ ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅꜱ ♣"
+H_B_5 : "♣ ᴇxɪᴛ ♣"
+H_B_6 : "♣ ꜱᴜᴅᴏᴜꜱᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ ♣"
 
 #PlayMode
 PM_B_1 : "DirectPlay"

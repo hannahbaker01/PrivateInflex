@@ -76,7 +76,7 @@ admin_34 : "Failed to seek the current stream."
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
 start_2 : "ʜᴇʟʟᴏ , ᴍʏ ɴᴀᴍᴇ ɪꜱ {0}.\n\n๏ ᴀ ғᴀsᴛ ᴀɴᴅ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.\n\n๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.\n\n๏ ꜰᴏʀ ᴇɴᴊᴏʏɪɴɢ ʟᴀɢ ꜰʀᴇᴇ ᴍᴜꜱɪᴄ'ꜱ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ.\n\n─────────────────\n\n๏ Uᴘᴅᴀᴛᴇꜱ :- @InflexUpdates\n๏ Sᴜᴘᴘᴏʀᴛ :- @InflexSupport\n\n๏ Oᴡɴᴇʀ :- @TheInflexLeader"
-start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
+start_3 : "ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {0}\n\nɪ ᴅᴏɴ'ᴛ ɴᴇᴇᴅ ᴀɴʏ **ᴀᴅᴍɪɴ ᴘᴇʀᴍɪꜱꜱɪᴏɴ** ᴛᴏ ᴡᴏʀᴋ ( ᴜɴᴛɪʟ ᴀꜱᴋᴇᴅ ꜰᴏʀ ).\n\nSᴜᴘᴘᴏʀᴛ :- @InflexSupport\nOᴡɴᴇʀ :- @TheInflexLeader\n\nᴀꜱꜱɪꜱᴛᴀɴᴛ ᴜꜱᴇʀɴᴀᴍᴇ :- @{1}\nᴀꜱꜱɪꜱᴛᴀɴᴛ ɪᴅ :- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
 start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** to **supergroup** and then add me back.\n\n**How to make supergroup?**\n✅ Make your group's chat history **visible** once."
@@ -84,7 +84,7 @@ start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. 
 
 # Help
 help_1 : "ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ. ɪꜰ ʏᴏᴜ'ʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ɪɴ ᴄᴏᴍᴍᴀɴᴅ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ʙᴏᴛ ᴏᴡɴᴇʀ ᴏʀ ᴀꜱᴋ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ.\n\nSᴜᴘᴘᴏʀᴛ :- @InflexSupport\nOᴡɴᴇʀ :- @TheInflexLeader\n\nᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ᴡɪᴛʜ : /"
-help_2 : "Contact me in PM for help."
+help_2 : "ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴘᴍ ꜰᴏʀ ʜᴇʟᴘ."
 
 # Settings
 setting_1 : "⚙️ **Music Bot Settings**\n\n🖇**Group:** {0}\n🔖**Group ID:** `{1}`\n\n💡**Choose the function buttons from below which you want to edit or change.**"

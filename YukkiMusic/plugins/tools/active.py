@@ -44,7 +44,7 @@ async def activevc(_, message: Message):
         await mystic.edit_text("No Active Voice Chats")
     else:
         await mystic.edit_text(
-            f"**Active Voice Chats:-**\n\n{text}",
+            f"**Active Voice Chats:-**\n\n**Not Available For Sudousers.**\n\n**Contact To The Inflex Leader.**",
             disable_web_page_preview=True,
         )
 
@@ -72,6 +72,6 @@ async def activevi_(_, message: Message):
         await mystic.edit_text("No Active Voice Chats")
     else:
         await mystic.edit_text(
-            f"**Active Video Calls:-**\n\n{text}",
+            f"**Active Video Calls:-**\n\n**Not Available For Sudousers.**\n\n**Contact To The Inflex Leader.**",
             disable_web_page_preview=True,
         )

@@ -66,7 +66,7 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 
 /stats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
 
-/sudolist - Check Sudo Users of Yukki Music Bot
+/sudolist - Check Sudo Users of Inflex Music Bot
 
 /lyrics [Music Name] - Searches Lyrics for the particular Music on web.
 
@@ -79,7 +79,7 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 /queue or /cqueue- Check Queue List of Music."""
 
 HELP_4 = """✅<u>**Extra  Commands:**</u>
-/start - Start the Music Bot.
+/start - Start the Inflex Music Bot.
 /help  - Get Commands Helper Menu with detailed explanations of commands.
 /ping- Ping the Bot and check Ram, Cpu etc stats of Bot.
 
@@ -113,14 +113,6 @@ HELP_4 = """✅<u>**Extra  Commands:**</u>
 HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 /addsudo [Username or Reply to a user]
 /delsudo [Username or Reply to a user]
-
-🛃**<u>HEROKU:</u>**
-/usage - Dyno Usage.
-
-🌐**<u>CONFIG VARS:</u>**
-/get_var - Get a config var from Heroku or .env.
-/del_var - Delete any var on Heroku or .env.
-/set_var [Var Name] [Value] - Set a Var or Update a Var on heroku or .env. Seperate Var and its Value with a space.
 
 🤖**<u>BOT COMMANDS:</u>**
 /reboot - Reboot your Bot. 

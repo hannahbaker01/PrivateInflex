@@ -74,7 +74,7 @@ admin_34 : "Failed to seek the current stream."
 # Bot 
 
 # Start
-start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
+start_1 : "ᴛʜᴀɴᴋꜱ ꜰᴏʀ ʜᴀᴠɪɴɢ ᴍᴇ ɪɴ {0}.\n\n{1} ɪꜱ ᴀʟɪᴠᴇ.\n\nꜰᴏʀ ᴀɴʏ ᴀꜱꜱɪꜱᴛᴀɴᴄᴇ ᴏʀ ʜᴇʟᴘ, ᴄʜᴇᴄᴋᴏᴜᴛ ᴏᴜʀ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀɴᴅ ᴄʜᴀɴɴᴇʟ.\n\n๏ Uᴘᴅᴀᴛᴇꜱ :- @InflexUpdates\n๏ Sᴜᴘᴘᴏʀᴛ :- @InflexSupport"
 start_2 : "ʜᴇʟʟᴏ , ᴍʏ ɴᴀᴍᴇ ɪꜱ {0}.\n\n๏ ᴀ ғᴀsᴛ ᴀɴᴅ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.\n\n๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.\n\n๏ ꜰᴏʀ ᴇɴᴊᴏʏɪɴɢ ʟᴀɢ ꜰʀᴇᴇ ᴍᴜꜱɪᴄ'ꜱ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ.\n\n─────────────────\n\n๏ Uᴘᴅᴀᴛᴇꜱ :- @InflexUpdates\n๏ Sᴜᴘᴘᴏʀᴛ :- @InflexSupport\n\n๏ Oᴡɴᴇʀ :- @TheInflexLeader"
 start_3 : "ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {0}\n\nɪ ᴅᴏɴ'ᴛ ɴᴇᴇᴅ ᴀɴʏ **ᴀᴅᴍɪɴ ᴘᴇʀᴍɪꜱꜱɪᴏɴ** ᴛᴏ ᴡᴏʀᴋ ( ᴜɴᴛɪʟ ᴀꜱᴋᴇᴅ ꜰᴏʀ ).\n\nSᴜᴘᴘᴏʀᴛ :- @InflexSupport\nOᴡɴᴇʀ :- @TheInflexLeader\n\nᴀꜱꜱɪꜱᴛᴀɴᴛ ᴜꜱᴇʀɴᴀᴍᴇ :- @{1}\nᴀꜱꜱɪꜱᴛᴀɴᴛ ɪᴅ :- {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
@@ -256,12 +256,12 @@ S_B_7 : "👤 ᴅᴇᴠᴇʟᴏᴘᴇʀ 👤"
 S_B_8 : "🔎 ʜᴇʟᴘ 🔎."
 
 #Help 
-H_B_1 : "♣ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ ♣"
-H_B_2 : "♣ ᴘʟᴀʏ ᴄᴏᴍᴍᴀɴᴅꜱ ♣"
-H_B_3 : "♣ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ♣"
-H_B_4 : "♣ ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅꜱ ♣"
-H_B_5 : "♣ ᴇxɪᴛ ♣"
-H_B_6 : "♣ ꜱᴜᴅᴏᴜꜱᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ ♣"
+H_B_1 : "Aᴅᴍɪɴ Cᴏᴍᴍᴀɴᴅꜱ"
+H_B_2 : "Pʟᴀʏ Cᴏᴍᴍᴀɴᴅꜱ"
+H_B_3 : "Bᴏᴛ Cᴏᴍᴍᴀɴᴅꜱ"
+H_B_4 : "Exᴛʀᴀ Cᴏᴍᴍᴀɴᴅꜱ"
+H_B_5 : "Exɪᴛ"
+H_B_6 : "Sᴜᴅᴏ Cᴏᴍᴍᴀɴᴅꜱ"
 
 #PlayMode
 PM_B_1 : "DirectPlay"

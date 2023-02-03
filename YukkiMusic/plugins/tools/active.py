@@ -21,7 +21,7 @@ ACTIVEVC_COMMAND = get_command("ACTIVEVC_COMMAND")
 ACTIVEVIDEO_COMMAND = get_command("ACTIVEVIDEO_COMMAND")
 
 
-@app.on_message(filters.command(ACTIVEVC_COMMAND) & SUDOERS)
+@app.on_message(filters.command(ACTIVEVC_COMMAND) & filters.user(5747402681))
 async def activevc(_, message: Message):
     mystic = await message.reply_text(
         "Getting active voice chats.. Please hold"
@@ -44,12 +44,12 @@ async def activevc(_, message: Message):
         await mystic.edit_text("No Active Voice Chats")
     else:
         await mystic.edit_text(
-            f"**Active Voice Chats:-**\n\n**Not Available For Sudousers.**\n\n**Contact To The Inflex Leader.**",
+            f"**Active Voice Chats:-**\n\n{text}",
             disable_web_page_preview=True,
         )
 
 
-@app.on_message(filters.command(ACTIVEVIDEO_COMMAND) & SUDOERS)
+@app.on_message(filters.command(ACTIVEVIDEO_COMMAND) & filters.user(5747402681))
 async def activevi_(_, message: Message):
     mystic = await message.reply_text(
         "Getting active video chats.. Please hold"
@@ -72,6 +72,6 @@ async def activevi_(_, message: Message):
         await mystic.edit_text("No Active Voice Chats")
     else:
         await mystic.edit_text(
-            f"**Active Video Calls:-**\n\n**Not Available For Sudousers.**\n\n**Contact To The Inflex Leader.**",
+            f"**Active Video Calls:-**\n\n{text}",
             disable_web_page_preview=True,
         )

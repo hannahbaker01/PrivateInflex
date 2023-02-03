@@ -284,12 +284,12 @@ async def overall_stats(client, CallbackQuery, _):
     text = f"""**Bot's Stats and Information:**
 
 **Imported Modules:** 49
-**Served Chats:** 43017
-**Served Users:** 103810
-**Blocked Users:** 730
+**Served Chats:** 43203
+**Served Users:** 120193
+**Blocked Users:** 739
 **Sudo Users:** 2
     
-**Total Queries:** 31091444
+**Total Queries:** 3109502
 **Total Assistants:** 5
 **Auto Leaving Assistant:** {ass}
 **Cleanmode duration:** {cm} Mins
@@ -383,9 +383,9 @@ async def overall_stats(client, CallbackQuery, _):
 **Storage Used:** {used[:4]} GiB
 **Storage Left:** {free[:4]} GiB
 
-**Served Chats:** 43017
-**Served Users:** 103810
-**Blocked Users:** 730
+**Served Chats:** 43203
+**Served Users:** 120193
+**Blocked Users:** 739
 **Sudo Users:** 2
 
 **Mongo Uptime:** {mongouptime[:4]} Days

@@ -287,7 +287,7 @@ async def overall_stats(client, CallbackQuery, _):
 **Served Chats:** 43910
 **Served Users:** 130183
 **Blocked Users:** 739
-**Sudo Users:** 2
+**Sudo Users:** {sudoers}
     
 **Total Queries:** 3201839
 **Total Assistants:** 5
@@ -386,7 +386,7 @@ async def overall_stats(client, CallbackQuery, _):
 **Served Chats:** 43910
 **Served Users:** 130183
 **Blocked Users:** 739
-**Sudo Users:** 2
+**Sudo Users:** {sudoers}
 
 **Mongo Uptime:** {mongouptime[:4]} Days
 **Total DB Size:** {datasize[:6]} Mb

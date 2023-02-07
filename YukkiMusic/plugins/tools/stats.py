@@ -283,13 +283,13 @@ async def overall_stats(client, CallbackQuery, _):
     cm = config.CLEANMODE_DELETE_MINS
     text = f"""**Bot's Stats and Information:**
 
-**Imported Modules:** 49
-**Served Chats:** 43203
-**Served Users:** 120193
+**Imported Modules:** 50
+**Served Chats:** 43910
+**Served Users:** 130183
 **Blocked Users:** 739
 **Sudo Users:** 2
     
-**Total Queries:** 3109502
+**Total Queries:** 3201839
 **Total Assistants:** 5
 **Auto Leaving Assistant:** {ass}
 **Cleanmode duration:** {cm} Mins
@@ -383,8 +383,8 @@ async def overall_stats(client, CallbackQuery, _):
 **Storage Used:** {used[:4]} GiB
 **Storage Left:** {free[:4]} GiB
 
-**Served Chats:** 43203
-**Served Users:** 120193
+**Served Chats:** 43910
+**Served Users:** 130183
 **Blocked Users:** 739
 **Sudo Users:** 2
 

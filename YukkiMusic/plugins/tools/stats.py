@@ -290,7 +290,7 @@ async def overall_stats(client, CallbackQuery, _):
 **Sudo Users:** {sudoers}
     
 **Total Queries:** 3201839
-**Total Assistants:** 5
+**Total Assistants:** {assistant}
 **Auto Leaving Assistant:** {ass}
 **Cleanmode duration:** {cm} Mins
 

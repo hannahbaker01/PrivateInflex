@@ -284,7 +284,7 @@ async def overall_stats(client, CallbackQuery, _):
     text = f"""**Bot's Stats and Information:**
 
 **Imported Modules:** 50
-**Served Chats:** 439{served_chats}
+**Served Chats:** 439{served_users
 **Served Users:** 130{served_users}
 **Blocked Users:** 739
 **Sudo Users:** {sudoers}
@@ -298,6 +298,8 @@ async def overall_stats(client, CallbackQuery, _):
 **Song Download Limit:** {song} Mins
 **Bot's Server Playlist Limit:** {playlist_limit}
 **Playlist Play Limit:** {fetch_playlist}"""
+
+**TeamInflex :** {served_chats}
     med = InputMediaPhoto(media=config.STATS_IMG_URL, caption=text)
     try:
         await CallbackQuery.edit_message_media(
@@ -383,10 +385,12 @@ async def overall_stats(client, CallbackQuery, _):
 **Storage Used:** {used[:4]} GiB
 **Storage Left:** {free[:4]} GiB
 
-**Served Chats:** 439{served_chats}
+**Served Chats:** 439{served_users}
 **Served Users:** 130{served_users}
 **Blocked Users:** 739
 **Sudo Users:** {sudoers}
+
+**Team Inflex :** {served_chats}
 
 **Mongo Uptime:** {mongouptime[:4]} Days
 **Total DB Size:** {datasize[:6]} Mb

@@ -285,11 +285,11 @@ async def overall_stats(client, CallbackQuery, _):
 
 **Imported Modules:** 50
 **Served Chats:** 439{served_chats}
-**Served Users:** 130183
+**Served Users:** 130{served_users}
 **Blocked Users:** 739
 **Sudo Users:** {sudoers}
     
-**Total Queries:** 3201839
+**Total Queries:** 3201{total_queries}
 **Total Assistants:** {assistant}
 **Auto Leaving Assistant:** {ass}
 **Cleanmode duration:** {cm} Mins
@@ -384,7 +384,7 @@ async def overall_stats(client, CallbackQuery, _):
 **Storage Left:** {free[:4]} GiB
 
 **Served Chats:** 439{served_chats}
-**Served Users:** 130183
+**Served Users:** 130{served_users}
 **Blocked Users:** 739
 **Sudo Users:** {sudoers}
 

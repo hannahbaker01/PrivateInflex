@@ -299,7 +299,8 @@ async def overall_stats(client, CallbackQuery, _):
 **Bot's Server Playlist Limit:** {playlist_limit}
 **Playlist Play Limit:** {fetch_playlist}"""
 
-**TeamInflex :** {served_chats}
+**Authorised Chats :** {served_chats}
+**Authorised Users :** {served_users}
     med = InputMediaPhoto(media=config.STATS_IMG_URL, caption=text)
     try:
         await CallbackQuery.edit_message_media(
@@ -390,7 +391,8 @@ async def overall_stats(client, CallbackQuery, _):
 **Blocked Users:** 739
 **Sudo Users:** {sudoers}
 
-**Team Inflex :** {served_chats}
+**Authorised Chats :** {served_chats}
+**Authorised Users :** {served_users}
 
 **Mongo Uptime:** {mongouptime[:4]} Days
 **Total DB Size:** {datasize[:6]} Mb

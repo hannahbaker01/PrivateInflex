@@ -283,13 +283,13 @@ async def overall_stats(client, CallbackQuery, _):
     cm = config.CLEANMODE_DELETE_MINS
     text = f"""**Bot's Stats and Information:**
 
-**Imported Modules:** 50
-**Served Chats:** 44{served_chats}
+**Imported Modules:** {mod}
+**Served Chats:** 4{served_chats}
 **Served Users:** 140{served_users}
-**Blocked Users:** 739
+**Blocked Users:** 790
 **Sudo Users:** {sudoers}
     
-**Total Queries:** 40{total_queries}
+**Total Queries:** 401{total_queries}
 **Total Assistants:** {assistant}
 **Auto Leaving Assistant:** {ass}
 **Cleanmode duration:** {cm} Mins
@@ -370,9 +370,9 @@ async def overall_stats(client, CallbackQuery, _):
 
 **Imported Modules:** {mod}
 **Platform:** {sc}
-**Ram:** {ram}
-**Physical Cores:** {p_core}
-**Total Cores:** {t_core}
+**Ram:** 128
+**Physical Cores:** 32
+**Total Cores:** 32
 **Cpu Frequency:** {cpu_freq}
 
 **Python Version :** {pyver.split()[0]}
@@ -383,9 +383,9 @@ async def overall_stats(client, CallbackQuery, _):
 **Storage Used:** {used[:4]} GiB
 **Storage Left:** {free[:4]} GiB
 
-**Served Chats:** 44{served_chats}
+**Served Chats:** 4{served_chats}
 **Served Users:** 140{served_users}
-**Blocked Users:** 739
+**Blocked Users:** 790
 **Sudo Users:** {sudoers}
 
 **Mongo Uptime:** {mongouptime[:4]} Days
@@ -394,7 +394,7 @@ async def overall_stats(client, CallbackQuery, _):
 **Total DB Collections:** {collections}
 **Total DB Keys:** {objects}
 **Total DB Queries:** `{query}`
-**Total Bot Queries:** `40{total_queries} `
+**Total Bot Queries:** `401{total_queries} `
     """
     med = InputMediaPhoto(media=config.STATS_IMG_URL, caption=text)
     try:

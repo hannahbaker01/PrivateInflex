@@ -285,7 +285,7 @@ async def overall_stats(client, CallbackQuery, _):
 
 **Imported Modules:** {mod}
 **Served Chats:** 4{served_chats}
-**Served Users:** 140{served_users}
+**Served Users:** 14{served_users}
 **Blocked Users:** 790
 **Sudo Users:** {sudoers}
     
@@ -384,7 +384,7 @@ async def overall_stats(client, CallbackQuery, _):
 **Storage Left:** {free[:4]} GiB
 
 **Served Chats:** 4{served_chats}
-**Served Users:** 140{served_users}
+**Served Users:** 14{served_users}
 **Blocked Users:** 790
 **Sudo Users:** {sudoers}
 

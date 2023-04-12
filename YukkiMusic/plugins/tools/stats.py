@@ -284,7 +284,7 @@ async def overall_stats(client, CallbackQuery, _):
     text = f"""**Bot's Stats and Information:**
 
 **Imported Modules:** {mod}
-**Served Chats:** 4{served_chats}
+**Served Chats:** 40000+{served_chats}
 **Served Users:** 14{served_users}
 **Blocked Users:** 790
 **Sudo Users:** {sudoers}

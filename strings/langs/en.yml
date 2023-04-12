@@ -387,13 +387,13 @@ vidmode_2 : "Video Play Mode set as downloader. Bot will be downloading tracks n
 vidmode_3 : "Video Play Mode set as m3u8. Bot will be play tracks live now."
 
 #broadcast
-broad_1 : "**Broadcasted Message In 40{0} Chats with {1} Pins from Bot.\n\n**Inflex Music :** {0}"
+broad_1 : "**Broadcasted Message In 4{0} Chats with {1} Pins from Bot."
 broad_2 : "Started Assistant Broadcast..."
 broad_3 : "**Assistant Broadcast:**\n\n"
 broad_4 : "Assistant {0} Broadcasted in {1} chats\n"
 broad_5 : "**Usage**:\n/broadcast [MESSAGE] or [Reply to a Message]"
 broad_6 : "Please provide some text to broadcast."
-broad_7 : "**Broadcasted Message to 140{0} Users.**"
+broad_7 : "**Broadcasted Message to 14{0} Users.**"
 
 #Heroku
 heroku_1 : "Please make sure your Heroku API Key, Your App name are configured correctly in the heroku"

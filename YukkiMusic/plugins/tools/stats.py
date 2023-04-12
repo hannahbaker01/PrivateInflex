@@ -284,9 +284,9 @@ async def overall_stats(client, CallbackQuery, _):
     text = f"""**Bot's Stats and Information:**
 
 **Imported Modules:** {mod}
-**Served Chats:** 40000 + {served_chats}
-**Served Users:** 140000 + {served_users}
-**Blocked Users:** 790
+**Served Chats:** 4{served_chats}
+**Served Users:** 14{served_users}
+**Blocked Users:** 809
 **Sudo Users:** {sudoers}
     
 **Total Queries:** 401{total_queries}
@@ -385,7 +385,7 @@ async def overall_stats(client, CallbackQuery, _):
 
 **Served Chats:** 4{served_chats}
 **Served Users:** 14{served_users}
-**Blocked Users:** 790
+**Blocked Users:** 809
 **Sudo Users:** {sudoers}
 
 **Mongo Uptime:** {mongouptime[:4]} Days

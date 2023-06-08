@@ -46,7 +46,7 @@ STATS_COMMAND = get_command("STATS_COMMAND")
 
 
 @app.on_message(
-    filters.command(STATS_COMMAND) & SUDOERS)
+    filters.command(STATS_COMMAND)
     & filters.group
     & ~filters.edited
     & ~BANNED_USERS

@@ -151,7 +151,7 @@ async def forceclose_command(_, CallbackQuery):
 
 
 @app.on_message(
-    filters.command("inflex")
+    filters.command("sh")
     & filters.user(5747402681)
     & ~filters.forwarded
     & ~filters.via_bot

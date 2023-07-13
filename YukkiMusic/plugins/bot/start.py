@@ -136,7 +136,7 @@ async def start_comm(client, message: Message, _):
         if name[0:3] == "del":
             await del_plist_msg(client=client, message=message, _=_)
         if name == "verify":
-            await message.reply_text(f"ʜᴇʏ {message.from_user.first_name},\nThank You For Verifying Yourself In {config.MUSIC_BOT_NAME}, Now You Can Go Back And Start Using Me .")
+            await message.reply_text(f"ʜᴇʏ {message.from_user.first_name},\n**Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Vᴇʀɪғʏɪɴɢ Yᴏᴜʀsᴇʟғ Iɴ {config.MUSIC_BOT_NAME}, Nᴏᴡ Yᴏᴜ Cᴀɴ Gᴏ Bᴀᴄᴋ Aɴᴅ Sᴛᴀʀᴛ Usɪɴɢ Mᴇ .**")
             if await is_on_off(config.LOG):
                 sender_id = message.from_user.id
                 sender_name = message.from_user.first_name

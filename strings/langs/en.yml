@@ -83,8 +83,8 @@ start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** 
 start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
 
 # Help
-help_1 : "ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ. ɪꜰ ʏᴏᴜ'ʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ɪɴ ᴄᴏᴍᴍᴀɴᴅ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ʙᴏᴛ ᴏᴡɴᴇʀ ᴏʀ ᴀꜱᴋ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ.\n\nSᴜᴘᴘᴏʀᴛ :- @InflexSupport\nOᴡɴᴇʀ :- @TheInflexLeader\n\nᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ᴡɪᴛʜ : /"
-help_2 : "ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ɪɴ ᴘᴍ ꜰᴏʀ ʜᴇʟᴘ."
+help_1 : "**Cʟɪᴄᴋ Oɴ Tʜᴇ Bᴜᴛᴛᴏɴꜱ Bᴇʟᴏᴡ Fᴏʀ Mᴏʀᴇ Iɴꜰᴏʀᴍᴀᴛɪᴏɴ. Iꜰ Yᴏᴜ'ʀᴇ Fᴀᴄɪɴɢ Aɴʏ Pʀᴏʙʟᴇᴍ Iɴ Cᴏᴍᴍᴀɴᴅ Yᴏᴜ Cᴀɴ Cᴏɴᴛᴀᴄᴛ Mʏ Bᴏᴛ Oᴡɴᴇʀ Oʀ Aꜱᴋ Iɴ Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ .** \n\n**ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ᴡɪᴛʜ :** /"
+help_2 : "**Cᴏɴᴛᴀᴄᴛ Mᴇ Iɴ Pᴍ Fᴏʀ Hᴇʟᴘ.**"
 
 # Settings
 setting_1 : "⚙️ **Music Bot Settings**\n\n🖇**Group:** {0}\n🔖**Group ID:** `{1}`\n\n💡**Choose the function buttons from below which you want to edit or change.**"
@@ -237,10 +237,10 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 ᴄʟᴏꜱᴇ"
-CLOSEMENU_BUTTON  : "🗑 ᴄʟᴏꜱᴇ ᴍᴇɴᴜ"
-BACK_BUTTON : "⬅ ʙᴀᴄᴋ"
-UNBAN_BUTTON : "🗑 ᴜɴʙᴀɴ ᴀꜱꜱɪꜱᴛᴀɴᴛ"
+CLOSE_BUTTON  : "🗑 Cʟᴏꜱᴇ"
+CLOSEMENU_BUTTON  : "🗑 Cʟᴏꜱᴇ ᴍᴇɴᴜ"
+BACK_BUTTON : "⬅ Bᴀᴄᴋ"
+UNBAN_BUTTON : "🗑 Uɴʙᴀɴ Aꜱꜱɪꜱᴛᴀɴᴛ"
 
 #Lyrics
 L_B_1 : "🚀 Checkout Lyrics Now"
@@ -252,7 +252,7 @@ S_B_3 : "📨 Sᴜᴘᴘᴏʀᴛ"
 S_B_4 : "📨 Cʜᴀɴɴᴇʟ"
 S_B_5 : "✚ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✚"
 S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Dᴇᴠᴇʟᴏᴘᴇʀ 👤"
+S_B_7 : "๏  🎄  Oᴡɴᴇʀ  🥀   ๏"
 S_B_8 : "🔎 Hᴇʟᴘ 🔎."
 
 #Help 

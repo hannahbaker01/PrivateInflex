@@ -387,13 +387,13 @@ vidmode_2 : "Video Play Mode set as downloader. Bot will be downloading tracks n
 vidmode_3 : "Video Play Mode set as m3u8. Bot will be play tracks live now."
 
 #broadcast
-broad_1 : "**Broadcasted Message In 4{0} Chats with {1} Pins from Bot."
+broad_1 : "**Broadcasted Message In {0} Chats with {1} Pins from Bot."
 broad_2 : "Started Assistant Broadcast..."
 broad_3 : "**Assistant Broadcast:**\n\n"
 broad_4 : "Assistant {0} Broadcasted in {1} chats\n"
 broad_5 : "**Usage**:\n/broadcast [MESSAGE] or [Reply to a Message]"
 broad_6 : "Please provide some text to broadcast."
-broad_7 : "**Broadcasted Message to 8{0} Users.**"
+broad_7 : "**Broadcasted Message to {0} Users.**"
 
 #Heroku
 heroku_1 : "Please make sure your Heroku API Key, Your App name are configured correctly in the heroku"
@@ -434,10 +434,10 @@ gban_2 : "Should i block myself? Lol"
 gban_3 : "You want to block a sudo user?"
 gban_4 : "{0} is already **gbanned** from the bot."
 gban_5 : "**Initializing Global Ban on {0}**\n\nExpected Time : {1}."
-gban_6 : "**Gbanned Successfully**\n\nBanned **{0}** from **29{1}** chats."
+gban_6 : "**Gbanned Successfully**\n\nBanned **{0}** from **{1}** chats."
 gban_7 : "{0} is not **gbanned **yet from the bot."
 gban_8 : "**Ungbanning {0}**\n\nExpected Time : {1}."
-gban_9 : "**UnGbanned Successfully**\n\nUnbanned **29{0}** in **{1}** chats."
+gban_9 : "**UnGbanned Successfully**\n\nUnbanned **{0}** in **{1}** chats."
 gban_10 : "No Gbanned Users Found."
 gban_11 : "Please wait a while.. Fetching Gbanned users list"
 

@@ -60,7 +60,7 @@ async def play_commnd(
 ):
     if not await is_served_user(message.from_user.id):
         await message.reply_text(
-            text="⚠️ Error , Not A Verified User ⚠️ \n\nPlease Start The Bot In Private Message Box To Verify Yourself .",
+            text="**⚠️ Eʀʀᴏʀ , Nᴏᴛ A Vᴇʀɪғɪᴇᴅ Usᴇʀ ⚠️ \ɴ\ɴPʟᴇᴀsᴇ Sᴛᴀʀᴛ Tʜᴇ Bᴏᴛ Iɴ Pʀɪᴠᴀᴛᴇ Mᴇssᴀɢᴇ Bᴏx Tᴏ Vᴇʀɪғʏ Yᴏᴜʀsᴇʟғ .**",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [

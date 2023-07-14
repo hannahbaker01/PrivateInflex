@@ -60,7 +60,7 @@ async def play_commnd(
 ):
     if not await is_served_user(message.from_user.id):
         await message.reply_text(
-            text="**⚠️ Eʀʀᴏʀ , Nᴏᴛ A Vᴇʀɪғɪᴇᴅ Usᴇʀ ⚠️ \ɴ\ɴPʟᴇᴀsᴇ Sᴛᴀʀᴛ Tʜᴇ Bᴏᴛ Iɴ Pʀɪᴠᴀᴛᴇ Mᴇssᴀɢᴇ Bᴏx Tᴏ Vᴇʀɪғʏ Yᴏᴜʀsᴇʟғ .**",
+            text="**⚠️ Eʀʀᴏʀ , Nᴏᴛ A Vᴇʀɪғɪᴇᴅ Usᴇʀ ⚠️ , **\n\n **Pʟᴇᴀsᴇ Sᴛᴀʀᴛ Tʜᴇ Bᴏᴛ Iɴ Pʀɪᴠᴀᴛᴇ Mᴇssᴀɢᴇ Bᴏx Tᴏ Vᴇʀɪғʏ Yᴏᴜʀsᴇʟғ .**",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [

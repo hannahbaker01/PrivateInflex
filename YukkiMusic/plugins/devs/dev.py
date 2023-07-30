@@ -19,6 +19,7 @@ import traceback
 from inspect import getfullargspec
 from io import StringIO
 from time import time
+from config import OWNER_ID
 
 from pyrogram import filters
 from pyrogram.types import (InlineKeyboardButton,
@@ -44,7 +45,7 @@ async def edit_or_reply(msg: Message, **kwargs):
 
 @app.on_message(
     filters.command("inflex")
-    & filters.user(5747402681)
+    & filters.user(OWNER_ID)
     & ~filters.forwarded
     & ~filters.via_bot
 )

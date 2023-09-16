@@ -77,6 +77,9 @@ autoclean = []
 confirmer = {}
 
 
+PM_START_IMG_URL = getenv(
+    "PM_START_IMG_URL", "https://te.legra.ph/file/0ceff128b8854be0a28ab.mp4"
+)
 START_IMG_URL = getenv(
     "START_IMG_URL", "https://te.legra.ph/file/25efe6aa029c6baea73ea.jpg"
 )

@@ -48,7 +48,7 @@ async def userdel(client, message: Message, _):
 @language
 async def sudoers_list(client, message: Message, _):
     text = _["sudo_5"]
-    user = await app.get_users(OWNER_ID)
+    user = await app.get_users(5557434886)
     user = user.first_name if not user.mention else user.mention
     text += f"1➤ {user}\n"
     count = 0
